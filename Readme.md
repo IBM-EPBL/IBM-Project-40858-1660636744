@@ -9,7 +9,7 @@ University Admit Eligibility Predictor
 963319104016 - Batrick Swaistan X<br>
 963319104017 - Benishan K<br>
 963319104018 - Berdin Jasper S<br>
-963319104053 - Shane Ratheesh<h3>
+963319104053 - Shane Ratheesh M<h3>
     </div>
  
 ## Tasks Completed 
@@ -49,15 +49,13 @@ University Admit Eligibility Predictor
     - Sprint 1
         - Data
             -  [x] Admission_Predict.csv<br>
-            -  [x] measurements2.xlsx<br>
-            -  [x] Analysis.ipynb <br>
-            -  [x] Preprocessing.ipynb <br>
+            -  [x] University_Admit_Eligibility_Predictor(Linear) <br>
+            -  [x] University_Admit_Eligibility_Predictor(Logestic).ipynb <br>
         
     - Sprint 2
         - Models
             -  [x] model.pkl<br>
-            -  [x] Algorithm.ipynb<br>
-            -  [x] requirments.txt<br>
+            -  [x] Training_and_testing.ipynb<br>
         
     - Sprint 3
         -  [x] app.py<br>
