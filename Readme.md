@@ -9,7 +9,7 @@ University Admit Eligibility Predictor
 963319104016 - Batrick Swaistan X<br>
 963319104017 - Benishan K<br>
 963319104018 - Berdin Jasper S<br>
-963319104046 - Shane Ratheesh<h3>
+963319104053 - Shane Ratheesh<h3>
     </div>
  
 ## Tasks Completed 
