@@ -1,0 +1,10 @@
+flask
+matplotlib
+numpy
+pandas
+Pillow
+scikit-image
+scikit-learn
+scipy
+pickle
+seaborn
