@@ -1,15 +1,15 @@
-# IBM-Project-40902-1660637245
-Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine Learning
+# IBM-Project-40858-1660636744
+University Admit Eligibility Predictor
 <br>
     <div align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
         <h2 align="center" style="margin-top:50px"> Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine Learning
         <br><br>Team ID: PNT2022TMID34993</h2>
 <h3>Team Members:<br>
-963319104011 - Alfiya A<br>
-963319104035 - Mahima A<br>
-963319104044 - Pooja J<br>
-963319104031 - Karthika K<h3>
+963319104016 - Batrick Swaistan X<br>
+963319104017 - Benishan K<br>
+963319104018 - Berdin Jasper S<br>
+963319104046 - Shane Ratheesh<h3>
     </div>
  
 ## Tasks Completed 
@@ -21,12 +21,6 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
     -  [x] CarFuelConsumption.py<br>
     -  [x] IBM_Watson_Deployment.ipynb<br>
     -  [x] app.py<br>
-
-- Images
-    -  [x] Architecture Diagram.pdf<br>
-    -  [x] Flow Diagram.pdf<br>
-
-
 
 - Pre-Development Phase
     - Ideation Phase
@@ -50,33 +44,24 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
         - [x] Road Map
         - [x] Milestone and Activity List.pdf
         - [x] Project Planning    
-        
-- Prerequisites
-    -  [x] Anaconda Installation.pdf<br>
-    -  [x] Prior Knowledge.pdf<br>
-    -  [x] Project Flow.pdf<br>
-    -  [x] Project Objective.pdf<br>
-    -  [x] Python Package Installation.pdf<br>
 
 - Project Development Phase
     - Sprint 1
         - Data
-            -  [x] measurements.csv<br>
+            -  [x] Admission_Predict.csv<br>
             -  [x] measurements2.xlsx<br>
-        -  [x] Analysis.ipynb <br>
-        -  [x] Preprocessing.ipynb <br>
+            -  [x] Analysis.ipynb <br>
+            -  [x] Preprocessing.ipynb <br>
         
     - Sprint 2
         - Models
             -  [x] model.pkl<br>
-            -  [x] model.save<br>
-        -  [x] Algorithm.ipynb<br>
-        -  [x] requirments.txt<br>
+            -  [x] Algorithm.ipynb<br>
+            -  [x] requirments.txt<br>
         
     - Sprint 3
         -  [x] app.py<br>
         -  [x] model.pkl<br>
-        -  [x] index.html<br>
         -  [x] requirments.txt<br>
         
     - Sprint 4
