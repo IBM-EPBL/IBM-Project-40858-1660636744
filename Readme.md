@@ -13,6 +13,11 @@ University Admit Eligibility Predictor
     </div>
  
 ## Tasks Completed 
+- Assignments
+    -  [x] Assignment 1 <br>
+    -  [x] Assignment 2 <br>    
+    -  [x] Assignment 3 <br> 
+    -  [x] Assignment 4 <br> 
 
 - Final-Deliverables
     - Images
@@ -21,6 +26,13 @@ University Admit Eligibility Predictor
     -  [x] CarFuelConsumption.py<br>
     -  [x] IBM_Watson_Deployment.ipynb<br>
     -  [x] app.py<br>
+    
+- Prerequisites
+    -  [x] Anaconda Installation.pdf<br>
+    -  [x] Prior Knowledge.pdf<br>
+    -  [x] Project Flow.pdf<br>
+    -  [x] Project Objective.pdf<br>
+    -  [x] Python Package Installation.pdf<br>
 
 - Pre-Development Phase
     - Ideation Phase
@@ -65,11 +77,6 @@ University Admit Eligibility Predictor
         -  [x] IBM_Watson_Deployment.ipynb<br>
         -  [x] Training Model on IBM Watson.pdf<br>
 
-- Assignments
-    -  [x] Assignment 1 <br>
-    -  [x] Assignment 2 <br>    
-    -  [x] Assignment 3 <br> 
-    -  [x] Assignment 4 <br> 
 <br>
  
 
