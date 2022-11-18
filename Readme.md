@@ -23,7 +23,6 @@ University Admit Eligibility Predictor
     - Images
     - Models
     - Dataset
-    -  [x] CarFuelConsumption.py<br>
     -  [x] IBM_Watson_Deployment.ipynb<br>
     -  [x] app.py<br>
     
