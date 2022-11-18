@@ -49,13 +49,12 @@ University Admit Eligibility Predictor
     - Sprint 1
         - Data
             -  [x] Admission_Predict.csv<br>
-            -  [x] University_Admit_Eligibility_Predictor(Linear) <br>
-            -  [x] University_Admit_Eligibility_Predictor(Logestic).ipynb <br>
+            -  [x] Ibm_Univ <br>
         
     - Sprint 2
         - Models
             -  [x] model.pkl<br>
-            -  [x] Training_and_testing.ipynb<br>
+            -  [x] Algorithm.ipynb<br>
         
     - Sprint 3
         -  [x] app.py<br>
